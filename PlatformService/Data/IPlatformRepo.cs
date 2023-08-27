@@ -1,3 +1,4 @@
+using PlatformService.Dtos;
 using PlatformService.Models;
 
 namespace PlatformService.Data;
